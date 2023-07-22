@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jeremi&#39;s dump</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Jeremi&#39;s dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>References</title>
+      <link>http://example.org/posts/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/references/</guid>
+      <description>In cpp, a reference is like an alias or another name for a variable that already exists and it&amp;rsquo;s used via the Lvalue reference declarator : &amp;amp;￼￼
+int&amp;amp; r_i = i; // alias to i, the reference int* p_i = &amp;amp;i // pointer that points to i // Adding to i with a reference void add_to_int(int&amp;amp; r) ​{ r+=5; } // Adding to i with a pointer void add_to_int(int* r) ​{ *r+=5; } cout &amp;lt;&amp;lt; i &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; // 0 cout &amp;lt;&amp;lt; ri &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; // 0 add_to_int(r_i); cout &amp;lt;&amp;lt; i &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; // 5 cout &amp;lt;&amp;lt; ri &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; // 5 add_to_int(p_i); cout &amp;lt;&amp;lt; i &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; // 10 cout &amp;lt;&amp;lt; ri &amp;lt;&amp;lt; &amp;#34;\n&amp;#34;; // 10 You might think that a reference is exactly like a pointer ?</description>
+    </item>
+    
+    <item>
+      <title>Rule of Five</title>
+      <link>http://example.org/posts/rule-of-five/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/rule-of-five/</guid>
+      <description>Set of guidelines that deal with resource management and custom implementations of the special member functions.
+Destructor Copy Constructor Copy Assignment Operator Move Constructor Move Assignment Operator The Rule of Five states that if you explicitly declare or define any of the following special member functions, then you should explicitly declare or define all of the remaining four special member functions. This is the case, because the compiler will not automatically generate the others.</description>
+    </item>
+    
+  </channel>
+</rss>
