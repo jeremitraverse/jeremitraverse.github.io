@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://thr3m.github.io/jeremitraverse.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://thr3m.github.io/jeremitraverse.github.io/</loc>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://thr3m.github.io/jeremitraverse.github.io/posts/</loc>
   </url><url>
-    <loc>http://example.org/posts/references/</loc>
+    <loc>https://thr3m.github.io/jeremitraverse.github.io/posts/references/</loc>
   </url><url>
-    <loc>http://example.org/posts/rule-of-five/</loc>
+    <loc>https://thr3m.github.io/jeremitraverse.github.io/posts/rule-of-five/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://thr3m.github.io/jeremitraverse.github.io/tags/</loc>
   </url>
 </urlset>
